@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sharpsword991
+- 👋 Hi, I’m @Hongli Ye
 
 # About me
 - 📖 Major in mathematics @SUSTech
